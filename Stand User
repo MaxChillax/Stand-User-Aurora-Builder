@@ -3,7 +3,7 @@
 	<info>
 		<name>Stand User</name>
 		<update version="0.0.1">
-			<file name="class-standuser.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/classes/class-fighter.xml" />
+			<file name="class-standuser.xml" url="https://raw.githubusercontent.com/MaxChillax/Stand-User-Aurora-Builder/master/Stand%20Use" />
 		</update>
 	</info>
 
